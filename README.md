@@ -17,7 +17,7 @@ As QA Engineer, evaluated the application's functionality against target system 
 - CSS3
 - JavaScript
 
-# My Role — Project Leader
+# My Role — QA Engineer
 - Executed end-to-end quality assurance protocols across the full software development lifecycle from initial requirement analysis to the final live presentation.
 - Formulated structured test cases to evaluate the application's core scope, including basic arithmetic accuracy and algebraic variable processing.
 - Monitored cross-functional task deliverables spanning UI layouts, JavaScript calculation logic, and back-end database connectivity to minimize functional defects.
