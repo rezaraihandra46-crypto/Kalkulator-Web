@@ -31,10 +31,10 @@ As QA Engineer, evaluated the application's functionality against target system 
 
 # Screenshots
 <!-- Tambahkan screenshot aplikasi kamu di sini, contoh: -->
-![Calculator UI](poto/Beranda.png)
-![Calculator UI](poto/kalkulator.png)
-![Anu](poto/konversi.png)
-![History](poto/riwayat.png)
+<img width="1356" height="641" alt="Beranda" src="https://github.com/user-attachments/assets/b12ed437-6111-4828-b6e8-42faeb605609" />
+<img width="1345" height="634" alt="kalkulator" src="https://github.com/user-attachments/assets/2df1996d-e9bb-4470-8604-be7e93d18900" />
+<img width="1358" height="640" alt="konversi" src="https://github.com/user-attachments/assets/5941ac45-3c43-4d92-aaaa-741a14e193a5" />
+<img width="1341" height="638" alt="riwayat" src="https://github.com/user-attachments/assets/f732ada6-99f7-4134-80b5-998ec202c870" />
 
 # License
 This project is licensed under the MIT License.
